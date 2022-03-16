@@ -500,7 +500,7 @@ choice4:' A – NAT Gateway B – NACL',
 answer: '4',
 			},
 		{
-question:'다음 중 Network ACL에 대한 설명 중 옳은 것을 고르시오.',
+question:'다음 중 Network ACL에 대한 설명 중 틀린 것을 고르시오.',
 choice1:' VPC에 종속적이다.',
 choice2:' subnet 단위로 적용이 된다.',
 choice3:' default 설정은 all permit 이다.',
