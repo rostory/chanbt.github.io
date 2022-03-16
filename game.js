@@ -1502,7 +1502,7 @@ answer: '4',
 ]
 
 const SCORE_POINTS = 1
-const MAX_QUESTIONS = 5
+const MAX_QUESTIONS = 60
 
 startGame = () => {
     questionCounter = 0
