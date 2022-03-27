@@ -657,7 +657,7 @@ choice1:' /var/log/dmesg',
 choice2:' /var/log/wtmp',
 choice3:' /var/log/access',
 choice4:' /var/log/secure',
-answer: '2',
+answer: '1',
 		},
 		{
 question:'Linux 서버의 SSH에서 root로의 접근을 막고자 할 때 변경해야 하는 설정내용은 무엇인가요?',
